@@ -14,7 +14,7 @@ Este minijogo em Python simula uma **corrida entre processos** no terminal, demo
    cd corrida-processos
 
    # Execute o script
-   python corrida_processos.py
+   python corrida-processos.py
    ```
 3. **Interaja**:
    - Escolha a política de escalonamento (Round Robin ou Prioridade Preemptiva).
