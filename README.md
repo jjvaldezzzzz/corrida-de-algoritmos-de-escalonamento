@@ -10,7 +10,7 @@ Este minijogo em Python simula uma **corrida entre processos** no terminal, demo
 2. **Passos**:
    ```bash
    # Clone ou baixe o repositório
-   git clone https://github.com/seu-usuario/corrida-processos.git
+   git clone https://github.com/jjvaldezzzzz/corrida-de-algoritmos-de-escalonamento
    cd corrida-processos
 
    # Execute o script
